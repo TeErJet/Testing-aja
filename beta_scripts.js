@@ -2,7 +2,7 @@ const tracks = [
     { id: "4JHg4nNYUJQ5HULcCmI18R?utm_source=generator", title: "Lagu 1" },
     { id: "5TbzAWWc5eJaANpA9kfGCd?utm_source=generator", title: "Lagu 2" },
     { id: "213x4gsFDm04hSqIUkg88w?utm_source=generator", title: "Lagu 3" },
-    { id: "5Hroj5K7vLpIG4FNCRIjbP?utm_source=generator", title: "Lagu 3" }
+    { id: "5Hroj5K7vLpIG4FNCRIjbP?utm_source=generator", title: "Lagu 4" }
 ];
 
 let currentIndex = 0;
